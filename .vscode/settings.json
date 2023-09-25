@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "peanut.db.elephantsql.com (peanut-01)",
+            "driver": "PostgreSQL",
+            "username": "fofuihyc",
+            "password": "jEcsLMEt1fnFkXhzNVnu1ajkEiXPq-vz",
+            "database": "fofuihnyc",
+            "connectString": "postgres://fofuihyc:jEcsLMEt1fnFkXhzNVnu1ajkEiXPq-vz@peanut.db.elephantsql.com/fofuihyc",
+            "name": "Jaqueline DB"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://ptjbmdhs:vRlW9mZtvoCFCTN-EDJ56hHtddgfKEvC@peanut.db.elephantsql.com/ptjbmdhs",
+            "name": "Jaquelines DB"
+        }
+    ]
+}
